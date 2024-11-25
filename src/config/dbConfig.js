@@ -14,4 +14,4 @@ export default async function conectarAoBanco(stringConexao) {
       console.error('Falha na conexão com o banco!', erro);
       process.exit();
   }
-} //teste teste
+}
